@@ -7,7 +7,7 @@ add the PRAW library to Python (3.6+), using pip install praw.
 navigate to the Python folder, enter Lib folder, site-packages, and then open praw.ini
 add a bot, like shown below:
 [bot1]
-[bot1]
+
 client_id=
 client_secret=
 password=
